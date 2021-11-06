@@ -31,9 +31,13 @@ Pero lo más correcto es aprender a entender el proceso y siempre entender que e
 # Oberservacion
 
 Muchos de estos temas serán explicados en otras clases en este curso o en otros.
-Aparte les recomiendo que hagan el curso de Github para que compartan sus códigos y los que tenemos un poco más de experiencia les podamos solventar sus dudas
 
-IMPORTANTE: Aprendamos desde este primer contacto o momento con la programación que debemos formarnos y enfocarnos en ser profesionales y que tengamos siempre presente las buenas prácticas, lógica de programación, documentación de códigos y a desarrollar las soft skills antes de adentramos en lenguajes más complejo y así crearemos aplicaciones más seguras.
+# Cursos recomendados
+Una vez finalizado el curso Basico de programacion tengan presente los siguintes cuross
+
+Aparte les recomiendo que hagan el curso de **Github** para que compartan sus códigos y los que tenemos un poco más de experiencia les podamos solventar sus dudas
+
+**IMPORTANTE**: Aprendamos desde este primer contacto o momento con la programación que debemos formarnos y enfocarnos en ser profesionales y que tengamos siempre presente las **buenas prácticas**, lógica de programación, **documentación de códigos** y a desarrollar las **soft skills** antes de adentramos en lenguajes más complejo y así crearemos aplicaciones más seguras.
 
 https://platzi.com/cursos/mejor-codigo/
 https://platzi.com/cursos/git-github/
@@ -41,10 +45,9 @@ https://platzi.com/cursos/technical-writing/
 
 https://platzi.com/habilidades-blandas/
 
-
-# Cursos recomendados
-Una vez finalizado el curso Basico de programacion tengan presente los siguintes cuross
-
+# Link recomnendado
+Codigo que todo alumno del curso deberia de observar para ve lo que significa lo que se puede lograr
+https://utoskydive.github.io/PesoPlanetas.io/
 
 # Fecha actualizacion 
 Noviembre 06, 2021	
