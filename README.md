@@ -32,4 +32,4 @@ Pero lo más correcto es aprender a entender el proceso y siempre entender que e
 Muchos de estos temas seran explicados en otras clases en este curso o en otros.
 
 # Fecha actualizacion 
-Noviembre 05, 2021	
+Noviembre 06, 2021	
