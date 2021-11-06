@@ -10,8 +10,8 @@
 # Explicación
 **IMPORTANTE**: Se hace la salvedad que el video se grabó en vivo y no se acoto el tema de la validación, quizás debido al nivel básico del mismo.
 Pero ese importante proceso está enmarcado dentro de las buenas prácticas de programación que toda persona que se esté iniciando en esta rama debe aprender y practicar. 
-- No existen comentarios en la explicación. 
-- En la explicación se usaron variables para los valores de la gravedad de Marte y Júpiter, pero también es válido usar constantes, ya que son valores que no van a variar por ser universales. Entonces se podrían calificar de esta manera como de solo lectura.
+- No existen comentarios en el codgo durante la grabación de la explicación, me imagino que por la premura del tiempo para no extenderse. 
+- En la explicación se usaron **variables** para los valores de la gravedad de **Marte** y **Júpiter**, pero también es válido usar **constantes**, ya que son valores que no van a variar por ser universales. Entonces se podrían calificar de esta manera como de solo lectura.
 
 # Validación:
 Al validar el valor que el usuario deberia sumistrar en el formulario, se esta previniendo que se pueda cometer la imprudencia de colocar una letra o en caso que no indique un numero, por lo que se muestra un mensaje de error y en caso contrario, se muestra el resultado de la ecuacion.
