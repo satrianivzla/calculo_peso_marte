@@ -29,7 +29,22 @@ Pero lo más correcto es aprender a entender el proceso y siempre entender que e
 ![Screen](https://github.com/satrianivzla/calculo_peso_marte/blob/main/images/calculo_error.png)
 
 # Oberservacion
-Muchos de estos temas seran explicados en otras clases en este curso o en otros.
+
+Muchos de estos temas serán explicados en otras clases en este curso o en otros.
+Aparte les recomiendo que hagan el curso de Github para que compartan sus códigos y los que tenemos un poco más de experiencia les podamos solventar sus dudas
+
+IMPORTANTE: Aprendamos desde este primer contacto o momento con la programación que debemos formarnos y enfocarnos en ser profesionales y que tengamos siempre presente las buenas prácticas, lógica de programación, documentación de códigos y a desarrollar las soft skills antes de adentramos en lenguajes más complejo y así crearemos aplicaciones más seguras.
+
+https://platzi.com/cursos/mejor-codigo/
+https://platzi.com/cursos/git-github/
+https://platzi.com/cursos/technical-writing/
+
+https://platzi.com/habilidades-blandas/
+
+
+# Cursos recomendados
+Una vez finalizado el curso Basico de programacion tengan presente los siguintes cuross
+
 
 # Fecha actualizacion 
 Noviembre 06, 2021	
