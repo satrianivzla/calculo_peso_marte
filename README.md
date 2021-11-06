@@ -5,7 +5,9 @@
 - Actualizado: Simon Montaño
 - Fecha actualizacion: Noviembre 05, 2021	
 
+![Screen]https://github.com/satrianivzla/calculo_peso_marte/blob/images/portada.png)
 
+# Explicacion
 Se hace la salvedad que el video se grabo en vivo y no se acoto el tema de la validacion, quizas debido al nivel basico del mismo pero ese importante proceso esta enmarcado dentro de las buenas practicas de programacion que toda persona que se este inciando en esta rama debe aprender y practicar.
 No existen comentarios en la explicacion.
 En la explicacion se usaron variables para los valores de la gravedad de Marte y Jupiter, pero tambien es valido usar constantes, ya que son valores que no van a variar por ser universales. Entonces se podrian calificar de esta manera como de solo lectura.
