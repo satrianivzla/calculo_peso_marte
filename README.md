@@ -1,9 +1,9 @@
 # Calculo Peso Marte
-Video de la clase numero #8:
-Ejercicio calculo del peso de una persona en otro planeta en JavaScript  
-Instructor: Freddy Vega
-Actualizado: Simon Montaño
-Fecha actualizacion: Noviembre 05, 2021	
+- Video de la clase numero #8:
+- Ejercicio calculo del peso de una persona en otro planeta en JavaScript  
+- Instructor: Freddy Vega
+- Actualizado: Simon Montaño
+- Fecha actualizacion: Noviembre 05, 2021	
 
 
 Se hace la salvedad que el video se grabo en vivo y no se acoto el tema de la validacion, quizas debido al nivel basico del mismo pero ese importante proceso esta enmarcado dentro de las buenas practicas de programacion que toda persona que se este inciando en esta rama debe aprender y practicar.
