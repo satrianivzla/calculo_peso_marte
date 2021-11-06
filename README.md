@@ -17,9 +17,14 @@ Al validar el valor que el usuario deberia sumistrar en el formulario, se esta p
 No he visto aun el video 9 donde se explican Ciclos y Condicionales por lo que se podria dar el caso que el explique lo que yo he tome la prevision de hacer en mi codigo
 Se usaron algunas etiquetas de HTML para hacer unas pequeñas mejoras a la presentacion, pero se puede seguir realizando cambios 
 
+![Screen](https://github.com/satrianivzla/calculo_peso_marte/blob/main/images/calculo_mensaje_error.png)
+
+
 # Caso no validado
 Si el alumno no aprende esta buena practica de pensar que puede darse el hipotetico caso que el valor esperado como numerico entero no sea suministrado, se corre el riesgo que el programa no pueda realizar el calculo y arroje un mensaje de error. 
 Pero lo mas correcto es aprender a entender el proceso y siempre entender que el flujo de un codigo puede ser roto de la manera mas sencilla si no se toman previsiones de seguridad.
+
+![Screen](https://github.com/satrianivzla/calculo_peso_marte/blob/main/images/calculo_error.png)
 
 # Oberservacion
 Muchos de estos temas seran explicados en otras clases en este curso o en otros.
