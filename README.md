@@ -43,7 +43,7 @@ Aparte les recomiendo que hagan el curso de **Github** para que compartan sus c�
 
 **IMPORTANTE**: Aprendamos desde este primer contacto o momento con la programación que debemos formarnos y enfocarnos en ser profesionales y que tengamos siempre presente las **buenas prácticas**, lógica de programación, **documentación de códigos** y a desarrollar las **soft skills** antes de adentramos en lenguajes más complejo y así crearemos aplicaciones más seguras.
 
-- **[Curso Mejor Codigo](https://platzi.com/cursos/mejor-codigo/ "Curso Mejor Codigo")**
+- **[Curso Mejor Código](https://platzi.com/cursos/mejor-codigo/ "Curso Mejor Codigo")**
 - **[Curso de Git y GitHub](https://platzi.com/cursos/git-github/ "Curso de Git y GitHub")**
 - **[Tecnicas de escritura](https://platzi.com/cursos/technical-writing/ "Tecnicas de escritura")**
 - **[Escuela de habilidades blandas (Soft Skills)](https://platzi.com/habilidades-blandas/ "Escuela de habilidades blandas (Soft Skills)")**
