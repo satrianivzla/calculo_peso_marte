@@ -43,10 +43,10 @@ Aparte les recomiendo que hagan el curso de **Github** para que compartan sus c�
 
 **IMPORTANTE**: Aprendamos desde este primer contacto o momento con la programación que debemos formarnos y enfocarnos en ser profesionales y que tengamos siempre presente las **buenas prácticas**, lógica de programación, **documentación de códigos** y a desarrollar las **soft skills** antes de adentramos en lenguajes más complejo y así crearemos aplicaciones más seguras.
 
-- **[Curso Mejor Código](https://platzi.com/cursos/mejor-codigo/ "Curso Mejor Codigo")**
-- **[Curso de Git y GitHub](https://platzi.com/cursos/git-github/ "Curso de Git y GitHub")**
-- **[Tecnicas de escritura](https://platzi.com/cursos/technical-writing/ "Tecnicas de escritura")**
-- **[Escuela de habilidades blandas (Soft Skills)](https://platzi.com/habilidades-blandas/ "Escuela de habilidades blandas (Soft Skills)")**
+- **[Curso de Buenas Prácticas para Escritura de Código](https://platzi.com/cursos/mejor-codigo/ "Curso Mejor Codigo")** Escribe código legible y libre de vicios. Conoce los principios básicos para programar aplicaciones que sean fáciles de mantener y ampliar. 
+- **[Curso Profesional de Git y GitHub](https://platzi.com/cursos/git-github/ "Curso de Git y GitHub")** Deja de versionar tus proyectos usando tu propio sistema de control de versiones. Mejor usa Git, el sistema de control de versiones por excelencia que utiliza la industria tecnológica.
+- **[Curso de Introducción al Technical Writing y Documentación de Código](https://platzi.com/cursos/technical-writing/ "Tecnicas de escritura")** Technical writing o escritura técnica transforma procesos complejos en información clara y accesible. 
+- **[Escuela de habilidades blandas (Soft Skills)](https://platzi.com/habilidades-blandas/ "Escuela de habilidades blandas (Soft Skills)")** Aprende a aprender, desarrolla tus habilidades blandas, gestiona tu tiempo y tus emociones. Conviértete en un líder y crea equipos de alto rendimiento.
 
 # Link recomnendado
 Les recomiendo este repositorio con un código que todo alumno del curso deberia de observar para ver lo que significa ponerle corazón al asunto y que se puede lograr cuando se tienen ganas de aprender, asi como de poner en practica lo aprendido
