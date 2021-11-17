@@ -3,7 +3,7 @@
 - Ejercicio Cálculo del peso de una persona en otro planeta en JavaScript  
 - Instructor: Freddy Vega
 - Actualizado: Simón Montaño
-- Fecha actualización: Noviembre 05, 2021	
+- Fecha actualización: Noviembre 17, 2021	
 
 ![Screen](https://github.com/satrianivzla/calculo_peso_marte/blob/main/images/portada.png)
 
@@ -39,15 +39,16 @@ Aparte les recomiendo que hagan el curso de **Github** para que compartan sus c�
 
 **IMPORTANTE**: Aprendamos desde este primer contacto o momento con la programación que debemos formarnos y enfocarnos en ser profesionales y que tengamos siempre presente las **buenas prácticas**, lógica de programación, **documentación de códigos** y a desarrollar las **soft skills** antes de adentramos en lenguajes más complejo y así crearemos aplicaciones más seguras.
 
-https://platzi.com/cursos/mejor-codigo/
-https://platzi.com/cursos/git-github/
-https://platzi.com/cursos/technical-writing/
-
-https://platzi.com/habilidades-blandas/
+- https://platzi.com/cursos/mejor-codigo/
+- https://platzi.com/cursos/git-github/
+- https://platzi.com/cursos/technical-writing/
+- https://platzi.com/habilidades-blandas/
 
 # Link recomnendado
-Codigo que todo alumno del curso deberia de observar para ve lo que significa lo que se puede lograr
+Les recomiendo este repositorio con un codigo que todo alumno del curso deberia de observar para ver lo que significa ponerle corazon al asunto y que se puede lograr cuando se tienen ganas de aprender asi como de poner en practica lo aprendido
 https://utoskydive.github.io/PesoPlanetas.io/
 
+![Screen](https://github.com/satrianivzla/calculo_peso_marte/blob/main/images/repositoio.png)
+
 # Fecha actualizacion 
-Noviembre 06, 2021	
+Noviembre 17, 2021	
