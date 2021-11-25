@@ -54,5 +54,5 @@ https://utoskydive.github.io/PesoPlanetas.io/
 
 ![Screen](https://github.com/satrianivzla/calculo_peso_marte/blob/main/images/repositoio.png)
 
-# Fecha ultima actualización 
+# Fecha Última actualización 
 Noviembre 24, 2021	
